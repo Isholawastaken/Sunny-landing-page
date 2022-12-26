@@ -1,0 +1,217 @@
+body {
+    background-color: rgb(0, 179, 255);
+}
+
+#container{
+    color: white;
+    width: 1500px;
+    height: 1500px;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+
+a {
+color: white;
+}
+
+#copycon{
+    color: white;
+    width: 1500px;
+    height: 600px;
+    position:absolute;
+    left:0px;
+    top:550px;
+}
+
+#text{
+    color: grey;
+    width: 750px;
+    height: 600px;
+    position:absolute;
+    left:0px;
+    top:0px;
+    background-color: white;
+}
+
+#image{
+    color: grey;
+    width: 750px;
+    height: 600px;
+    position:absolute;
+    left:750px;
+    top:0px;
+}
+
+#text1{
+    color: grey;
+    width: 750px;
+    height: 600px;
+    position:absolute;
+    left:750px;
+    top:1000px;
+    background-color: white;
+    
+}
+
+#image1{
+    color: grey;
+    width: 750px;
+    height: 600px;
+    position:absolute;
+    left:0px;
+    top:1000px;
+}
+
+#first{
+    color: grey;
+    width: 750px;
+    height: 600px;
+    position:absolute;
+    left:0px;
+    top:1600px;
+    background-color: white;
+    border: 2px solid green;
+    
+}
+
+#word{
+    color: grey;
+    width: 750px;
+    height: 200px;
+    position:absolute;
+    left:0px;
+    top:600px;
+    background-color: white;
+    
+}
+
+#word1{
+    color: grey;
+    width: 750px;
+    height: 200px;
+    position:absolute;
+    left:0px;
+    top:600px;
+    background-color: white;
+    
+}
+
+#tired{
+    width: 1500px;
+    height: 500px;
+    position:absolute;
+    left:0px;
+    top:2400px;
+    background-color: white;
+}
+
+#middle{
+    color: grey;
+    width: 1500px;
+    height: 600px;
+    position:absolute;
+    left:0px;
+    top:100px;
+    background-color: white;  
+}
+
+#review1{
+    color: grey;
+    width: 500px;
+    height: 530px;
+    position:absolute;
+    left:0px;
+    top:170px;
+    background-color: white;
+}
+
+#review2{
+    color: grey;
+    width: 500px;
+    height: 530px;
+    position:absolute;
+    left:500px;
+    top:170px;
+    background-color: white;
+}
+
+
+#review3{
+    color: grey;
+    width: 500px;
+    height: 730px;
+    position:absolute;
+    left:1000px;
+    top:170px;
+    background-color: white;
+}
+#second{
+    color: grey;
+    width: 750px;
+    height: 800px;
+    position:absolute;
+    left:750px;
+    top:1600px;
+    border: 1px solid green;
+}
+
+#quadproblem{
+    width: 1500px;
+    height: 600px;
+    position:absolute;
+    left:0px;
+    top:3000px;
+    background-color: black;
+
+}
+
+#problem1{
+    width: 375px;
+    height: 600px;
+    position:absolute;
+    left:0px;
+    top:0px;
+    background-color: black;
+
+}
+
+#problem2{
+    width: 375px;
+    height: 600px;
+    position:absolute;
+    left:375px;
+    top:0px;
+    background-color: black;
+
+}
+
+#problem3{
+    width: 375px;
+    height: 600px;
+    position:absolute;
+    left:750px;
+    top:0px;
+    background-color: black;
+
+}
+
+#problem4{
+    width: 375px;
+    height: 600px;
+    position:absolute;
+    left:1125px;
+    top:0px;
+    background-color: black;
+
+}
+
+#laststand{
+    color: blue;
+    width: 1500px;
+    height: 400px;
+    position:absolute;
+    left:0px;
+    top:3600px;
+    background-color: lightblue; 
+}
